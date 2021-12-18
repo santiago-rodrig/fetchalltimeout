@@ -1,0 +1,22 @@
+START: 2021-12-17 07:59:02.041639 -0400 -04 m=+0.001162793
+1.03s 1160116 http://cnn.com
+2.71s 1494396 http://nytimes.com
+2.71s elapsed
+START: 2021-12-17 07:59:28.234196 -0400 -04 m=+0.000629334
+Get "http://gulu.blurp.net": dial tcp: lookup gulu.blurp.net: no such host
+START: 2021-12-17 08:01:20.656165 -0400 -04 m=+0.001768960
+Get "http://gulu.blurp.net": dial tcp: lookup gulu.blurp.net: no such host
+1.02s 1123614 http://cnn.com
+2.38s 1494441 http://nytimes.com
+2.38s elapsed
+START: 2021-12-17 08:02:32.288613 -0400 -04 m=+0.001199709
+Get "http://gulu.blurp.net": dial tcp: lookup gulu.blurp.net: no such host
+0.97s 1123614 http://cnn.com
+2.18s 1494364 http://nytimes.com
+2.18s elapsed
+START: 2021-12-17 08:09:51.738938 -0400 -04 m=+0.000643418
+Get "http://gulu.blurp.net": dial tcp: lookup gulu.blurp.net: no such host
+1.03s 1123614 http://cnn.com
+2.97s 1494245 http://nytimes.com
+timed out after 20s
+20.00s elapsed
